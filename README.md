@@ -1,4 +1,4 @@
-# creatURL
+# createURL
 
 CreateURL is an automatic url generator, it converts any word you feed it with into a clickable url.
 Type whatever you can think of into the text-box, then you be immediately prompted to type in any high level domain of your choice.
