@@ -1,0 +1,56 @@
+body{
+	background: #696969;
+	font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+.container a, .container a:hover{
+	text-decoration: none;
+	color: #BD0707;
+}
+.container{
+	margin-top: 2%;
+	background: #A9A9A9;
+	width: 60vw;	
+}
+#remove-marginTop{
+	margin-top: 0;
+}
+input{
+	background: #F8F9FA;
+	border: none;
+	border-radius: 5px;
+	width: 100%;
+	padding: .3em .5px .3em 0.5em;
+	margin-bottom: 1em;
+	font-size: 20px;
+}
+.container h1{
+	font-size: 30px;
+	background:#FAFBFC;
+	padding: 1em 0; 
+	border: none;
+	border-radius: 5px;
+}
+span{
+	font-size: 18px;
+	color:  #BD0707;
+}
+.header{
+	background: #BEBEAA;
+	padding: 1em 1em;
+	margin-bottom: 2em;
+	font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+	border: none;
+	border-radius: 5px;
+}
+#intro{
+	color: #BD0707;;
+}
+footer{
+	margin-top: 2em;
+	padding: 1.4em 0;
+	background: gray;
+}
+.icon, .icon:hover{
+	color: white;
+	margin-left: .5em; 
+}
