@@ -1,6 +1,8 @@
 body{
 	background: #696969;
 	font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+	width: 100%;
+	height: 100%;
 }
 .container a, .container a:hover{
 	text-decoration: none;
@@ -20,7 +22,7 @@ input{
 	border-radius: 5px;
 	width: 100%;
 	padding: .3em .5px .3em 0.5em;
-	margin-bottom: 1em;
+	margin-bottom: 2%;
 	font-size: 20px;
 }
 .container h1{
@@ -37,7 +39,7 @@ span{
 .header{
 	background: #BEBEAA;
 	padding: 1em 1em;
-	margin-bottom: 2em;
+	margin-bottom: 5%;
 	font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 	border: none;
 	border-radius: 5px;
@@ -46,7 +48,7 @@ span{
 	color: #BD0707;;
 }
 footer{
-	margin-top: 2em;
+	margin-top: 5%;
 	padding: 1.4em 0;
 	background: gray;
 }
